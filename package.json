@@ -1,0 +1,19 @@
+{
+  "name": "distance-between-points",
+  "version": "1.0.0",
+  "description": "Distance between two points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wimarbueno/distance-between-points.git"
+  },
+  "author": "Wilzon Mariño Bueno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wimarbueno/distance-between-points/issues"
+  },
+  "homepage": "https://github.com/wimarbueno/distance-between-points#readme"
+}
