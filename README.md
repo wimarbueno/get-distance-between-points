@@ -1,5 +1,5 @@
 # distance-between-points
-Distance between two points on the Earth.
+Distance between two points of coordinates in Google Maps - Earth
 
 ## Usage
 ```javascript

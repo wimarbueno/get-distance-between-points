@@ -40,6 +40,5 @@ function getDistanceBetweenPoints(lat1, lng1, lat2, lng2) {
 }
 
 module.exports = {
-  degreesToRadians,
   getDistanceBetweenPoints
 };

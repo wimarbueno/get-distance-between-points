@@ -1,7 +1,7 @@
 {
   "name": "get-distance-between-points",
   "version": "1.0.1",
-  "description": "Distance between two points on the Earth.",
+  "description": "Distance between two points of coordinates in Google Maps - Earth",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/wimarbueno/distance-between-points.git"
   },
+  "keywords": [
+    "distance",
+    "points",
+    "earth",
+    "google",
+    "maps"
+  ],
   "author": "Wilzon Mariño Bueno <wimarbueno@gmail.com> (https://WilzonMB.com)",
   "license": "MIT",
   "bugs": {
