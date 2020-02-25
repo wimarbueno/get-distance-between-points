@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/wimarbueno/distance-between-points/compare/v1.0.6...v1.2.0) (2020-02-25)
+
+
+### Features
+
+* updated travis with deploy configuration ([a7e2759](https://github.com/wimarbueno/distance-between-points/commit/a7e27598fa368c07958e6b5037e0c569d77f2616))
+
 ### [1.0.6](https://github.com/wimarbueno/distance-between-points/compare/v1.0.4...v1.0.6) (2020-02-25)
 
 
