@@ -1,6 +1,8 @@
 # get-distance-between-points
 Distance between two points of coordinates in Google Maps - Earth
 
+This module has no dependencies ;)
+
 [![Build Status](https://travis-ci.org/wimarbueno/get-distance-between-points.svg?branch=master)](https://travis-ci.org/wimarbueno/get-distance-between-points)
 
 ## Installation
