@@ -1,6 +1,6 @@
 {
   "name": "get-distance-between-points",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Distance between two points on the Earth.",
   "main": "index.js",
   "scripts": {
