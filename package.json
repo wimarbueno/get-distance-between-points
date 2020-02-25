@@ -1,6 +1,6 @@
 {
   "name": "get-distance-between-points",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Distance between two points of coordinates in Google Maps - Earth",
   "main": "index.js",
   "scripts": {
