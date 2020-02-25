@@ -4,7 +4,9 @@ Distance between two points of coordinates in Google Maps - Earth
 [![Build Status](https://travis-ci.org/wimarbueno/get-distance-between-points.svg?branch=master)](https://travis-ci.org/wimarbueno/get-distance-between-points)
 
 ## Installation
-npm install get-distance-between-points --save
+```sh
+$ npm install get-distance-between-points --save
+```
 
 ## Usage
 ```javascript
