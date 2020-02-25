@@ -1,7 +1,7 @@
 {
   "name": "distance-between-points",
   "version": "1.0.0",
-  "description": "Distance between two points",
+  "description": "Distance between two points on the Earth.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/wimarbueno/distance-between-points.git"
   },
-  "author": "Wilzon Mariño Bueno",
+  "author": "Wilzon Mariño Bueno <wimarbueno@gmail.com> (https://WilzonMB.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/wimarbueno/distance-between-points/issues"
