@@ -1,5 +1,5 @@
 {
-  "name": "distance-between-points",
+  "name": "get-distance-between-points",
   "version": "1.0.0",
   "description": "Distance between two points on the Earth.",
   "main": "index.js",
